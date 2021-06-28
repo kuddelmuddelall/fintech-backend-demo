@@ -89,6 +89,7 @@ function update_wallet_by_id(id, wallet) {
     }
   );
 }
+// test statement
 
 function delete_customer_by_id(request, response) {
   database.connection.query(
